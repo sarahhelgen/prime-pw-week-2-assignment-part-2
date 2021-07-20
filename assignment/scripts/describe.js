@@ -173,7 +173,7 @@ if (temp > 39 || time >= 4) {    FIX: this OR operator needs to be changed to AN
 let age = 21;
 const minAge = 21;
 
-if(minAge <= age) {
+if(minAge <= age) {       FIX: per the description, this should be if(age >= minAge ), and this will consonle log no entry instead of 'enter.'
   console.log('no entry');
 } else {
   console.log('enter');

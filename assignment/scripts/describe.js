@@ -48,7 +48,10 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
+// Here we are initializing two variables - secret, which is not yet assigned a value - and code, which is assigned the number 123.
+//If the code variable equals 123, then the secret variables value is set to a string of 'super' and the code variable will be multipled by 2.
+//If the code variable is greater than 250, the secret variable is assigned to a string of 'duper.' Then we would console log what the variable secret is at the end.
+//In this case, when we console log secret, it will be set to the string 'super.'
 // 
 // 
 //

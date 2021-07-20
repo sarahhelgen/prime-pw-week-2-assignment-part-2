@@ -76,7 +76,12 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
+// In this example, three variables are initialized - isStudent is a boolean assigned a value of true, age is a variable assigned the number 34, and zip is a variable assigned a number of 55407.
+// In the first clause of the statement, there is a compound conditional checking if isStudent is true and zip is greater than 8000. If this is condition is true, we will console log "You are a student on the west coast."
+// In the second clause, there is another compound conditional checking if isStudent is false or age is less than 30 - if this is true, we will console log 'What are your hobbies?'
+// in the third clause, there is a conditional checking if "isStudent" is true, then we will console.log( 'Welcome to Prime!')
+// In the final else statement, if none of the previous conditions were true, then we will console.log 'How about the weather?
+//In this example, the only condition that is true is isStudent = true, so we would console log "Welcome to Prime!"
 // 
 // 
 //

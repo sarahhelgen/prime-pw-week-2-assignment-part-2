@@ -160,7 +160,7 @@ if (mix === true) {
 let temp = 40;
 const time = 4;
 
-if (temp > 39 || time >= 4) {
+if (temp > 39 || time >= 4) {    FIX: this OR operator needs to be changed to AND (&&) per the description.
   console.log('throw away the food!');
 }
 */
